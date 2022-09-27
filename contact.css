@@ -1,0 +1,22 @@
+.container{
+
+}
+li{
+    list-style: none;
+    font-size: 30px;
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+.s1{
+    color:#52BFFF;
+    font-size: 35px;
+}
+a{
+    color: #52BFFF;
+    font-size: 30px;
+}
+.s2{
+    color: #52BFFF;
+}
